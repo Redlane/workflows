@@ -22,7 +22,9 @@
     "gulp-uglify": "^2.0.1",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
+    "imagemin-pngcrush": "^5.0.0",
     "jquery": "^3.1.1",
-    "mustache": "^2.3.0"
+    "mustache": "^2.3.0",
+    "pngcrush": "^1.1.1"
   }
 }
